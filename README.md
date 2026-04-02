@@ -118,7 +118,7 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 <p align="left">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose-Luis-Flavio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="420"
+    width="390"
   />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
