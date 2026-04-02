@@ -62,7 +62,7 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
      />
   &nbsp;&nbsp;
   <img
-     src="https://github.com/devicons/devicon/tree/v2.17.0/icons/typescript/typescript-original-wordmark.svg"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
      width="50"
      alt="TypeScript"
      align="middle"
